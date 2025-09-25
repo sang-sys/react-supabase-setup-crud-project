@@ -30,7 +30,7 @@ Perfect for learning **Supabase Auth, Database, Storage, and RLS policies** in a
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/your-username/supabase-react-products.git
+git clone https://github.com/TanmayShil/react-supabase-setup-crud-project.git
 cd supabase-react-products
 npm install
 ```
@@ -234,12 +234,7 @@ src/
 
 ---
 
-## 📜 License
+## 🙋‍♂️ Author
 
-MIT License © 2025 [Your Name]
-
-```
-
-This file contains **full explanations** for setup, RLS, storage, troubleshooting, and usage. You can save it as `README.md` in your GitHub repository.
-
-```
+Made with ❤️ by Tanmay Shil
+GitHub: [@TanmayShil](https://github.com/TanmayShil)
