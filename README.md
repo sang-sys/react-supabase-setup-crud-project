@@ -201,7 +201,7 @@ src/
 
 ```json
 {
-  "name": "supabase-react-products",
+  "name": "react-supabase-setup-crud-project",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
