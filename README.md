@@ -31,7 +31,7 @@ Perfect for learning **Supabase Auth, Database, Storage, and RLS policies** in a
 
 ```bash
 git clone https://github.com/TanmayShil/react-supabase-setup-crud-project.git
-cd supabase-react-products
+cd react-supabase-setup-crud-project
 npm install
 ```
 
